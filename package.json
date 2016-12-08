@@ -1,6 +1,6 @@
 {
-  "name": "webpack-dgeni-plugin",
-  "version": "0.0.1-beta",
+  "name": "webpack-angular-dgeni-plugin",
+  "version": "0.0.1-beta2",
   "scripts": {},
   "dependencies": {
     "copy": "^0.3.0",
