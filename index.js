@@ -34,7 +34,7 @@ DocsGeneratorPlugin.prototype.apply = function (compiler) {
     compiler.plugin("compile", function () {
         if (options.enable) {
             dgeni.generate();
-            copy('./tools/docs-generator/app/**/*.{js,html,css}', options.output, (err) => {
+            copy(__dirname + '/app/**/*.{js,html,css}', options.output, (err) => {
                 if (err) throw err;
             });
         }

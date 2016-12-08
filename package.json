@@ -1,6 +1,26 @@
 {
   "name": "webpack-angular-dgeni-plugin",
-  "version": "0.0.1-beta2",
+  "description": "This is a repo of SII continuous integration build system dedicated to Front-end webapps. This repo provides webpack plugin for generating angular documentation with Dgeni",
+  "version": "0.0.1-beta3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groupe-sii/webpack-angular-dgeni-plugin.git"
+  },
+  "keywords": [
+    "dgeni",
+    "webpack",
+    "angular",
+    "docs"
+  ],
+  "author": "Olivier LE LAY <liollury@gmail.com> (http://www.groupe-sii.com/)",
+  "contributors": [
+    "Olivier Le Lay"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/groupe-sii/webpack-angular-dgeni-plugin/issues"
+  },
+  "homepage": "https://github.com/groupe-sii/webpack-angular-dgeni-plugin#readme",
   "scripts": {},
   "dependencies": {
     "copy": "^0.3.0",

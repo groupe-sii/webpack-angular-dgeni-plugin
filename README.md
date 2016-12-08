@@ -6,6 +6,10 @@ Angular documentation is generated with [DGeni](https://github.com/angular/dgeni
 
 Please refer to [Angular documentation](https://github.com/angular/angular.js/wiki/Writing-AngularJS-Documentation) for doc's comments generation.
 
+## Installation
+
+`npm install webpack-angular-dgeni-plugin`
+
 ## Configuration
 
 Webpack plugin definition :
