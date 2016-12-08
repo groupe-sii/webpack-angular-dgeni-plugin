@@ -1,6 +1,6 @@
 {
   "name": "webpack-angular-dgeni-plugin",
-  "description": "This is a repo of SII continuous integration build system dedicated to Front-end webapps. This repo provides webpack plugin for generating angular documentation with Dgeni",
+  "description": "This repo provides webpack plugin for generating angular documentation with Dgeni",
   "version": "0.0.1-beta3",
   "repository": {
     "type": "git",
