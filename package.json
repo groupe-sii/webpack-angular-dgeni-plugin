@@ -1,0 +1,12 @@
+{
+  "name": "webpack-dgeni-plugin",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {
+    "copy": "^0.3.0",
+    "dgeni": "^0.4.2",
+    "dgeni-packages": "^0.16.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {}
+}
