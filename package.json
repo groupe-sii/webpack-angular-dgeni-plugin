@@ -1,7 +1,7 @@
 {
   "name": "webpack-angular-dgeni-plugin",
   "description": "Webpack plugin for generating angular documentation with Dgeni",
-  "version": "0.0.1-beta3",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/groupe-sii/webpack-angular-dgeni-plugin.git"

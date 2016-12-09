@@ -33,9 +33,7 @@ new DocsGeneratorPlugin({
 
 ## ChangeLog
 
-###Unreleased
-
-####Added
+###v0.0.1
 
 - Add Webpack plugin structure
 - Add Dgeni processor
